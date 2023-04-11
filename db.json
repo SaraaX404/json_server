@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "name": "saraa",
+      "username": "Thathsara",
+      "password": "805914",
+      "id": 1
+    },
+    {
+      "name": "Saraa",
+      "username": "SaraaX404",
+      "password": "805914",
+      "id": 2
+    },
+    {
+      "name": "ThathsaraX",
+      "username": "SaraaX",
+      "password": "805914",
+      "id": 3
+    },
+    {
+      "name": "Kasun",
+      "username": "KasunX",
+      "password": "805914",
+      "id": 4
+    },
+    {
+      "name": "Nimesh",
+      "username": "nelum",
+      "password": "tharu",
+      "id": 5
+    },
+    {
+      "name": "Mahinda",
+      "username": "rajapaksha",
+      "password": "805914",
+      "id": 6
+    },
+    {
+      "name": "Kaweesh",
+      "username": "STA@example.com",
+      "password": "805914",
+      "id": 7
+    },
+    {
+      "name": "thathsara",
+      "username": "thathsara@gmail.com",
+      "password": "805914",
+      "id": 8
+    },
+    {
+      "name": "john doe",
+      "username": "johndoe@gmail.com",
+      "password": "805914",
+      "id": 9
+    },
+    {
+      "name": "kawesha",
+      "username": "saraa@gmail.com",
+      "password": "805914",
+      "id": 10
+    },
+    {
+      "name": "Senanayakage Thathsara Apurwa Senanayaka",
+      "username": "STA@exampleX.com",
+      "password": "805914",
+      "id": 11
+    },
+    {
+      "name": "Hair",
+      "username": "STA@example.comx",
+      "password": "123456",
+      "id": 12
+    },
+    {
+      "name": "Thathsara Senanayaka",
+      "username": "saraaXX@gmail.com",
+      "password": "805914",
+      "id": 13
+    },
+    {
+      "name": "Nail cut",
+      "username": "STA@example.comjjj",
+      "password": "55555555",
+      "id": 14
+    },
+    {
+      "name": "Thathsara Senanayaka",
+      "username": "STA@example.comxxxx",
+      "password": "123456",
+      "id": 15
+    },
+    {
+      "name": "Thathsara Senanayaka",
+      "username": "STA@example.com1",
+      "password": "123456",
+      "id": 16
+    }
+  ]
+}
